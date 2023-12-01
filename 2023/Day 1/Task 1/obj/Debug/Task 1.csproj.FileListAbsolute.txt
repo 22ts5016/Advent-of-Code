@@ -1,0 +1,8 @@
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\bin\Debug\Task 1.exe.config
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\bin\Debug\Task 1.exe
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\bin\Debug\Task 1.pdb
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\obj\Debug\Task 1.csproj.SuggestedBindingRedirects.cache
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\obj\Debug\Task 1.exe
+\\RHEA\HOME\2022\22TS5016\Documents\Computer Science\Advent of Code\2023\Day 1\Task 1\obj\Debug\Task 1.pdb

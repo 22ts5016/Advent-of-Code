@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a3dfc39-c920-416c-b2ee-d645ba5e05c0": {
+      "ProjectGuid": "5a3dfc39-c920-416c-b2ee-d645ba5e05c0",
+      "DisplayName": "Day 7 Task 1",
+      "ColorIndex": 0
+    },
+    "2f7b3129-3e60-4da6-b8fc-7eb04c7eef24": {
+      "ProjectGuid": "2f7b3129-3e60-4da6-b8fc-7eb04c7eef24",
+      "DisplayName": "Day 5 Task 2",
+      "ColorIndex": 1
+    },
+    "baf38365-4fab-48ff-9a77-f480244ac026": {
+      "ProjectGuid": "baf38365-4fab-48ff-9a77-f480244ac026",
+      "DisplayName": "Day 2 Task 1",
+      "ColorIndex": 2
+    },
+    "f875576b-2dc8-4b0b-8adf-37c0d35ce1f4": {
+      "ProjectGuid": "f875576b-2dc8-4b0b-8adf-37c0d35ce1f4",
+      "DisplayName": "Day 6 Task 2",
+      "ColorIndex": 3
+    },
+    "d4908548-0b1f-485a-a603-caeefe2af5a3": {
+      "ProjectGuid": "d4908548-0b1f-485a-a603-caeefe2af5a3",
+      "DisplayName": "Day 5 Task 1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
